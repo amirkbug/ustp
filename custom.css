@@ -1,0 +1,56 @@
+
+
+li a {
+white-space: nowrap;
+font-size: 15px !important;
+}
+
+nav .navbar-nav li a{
+color: white !important;
+}
+
+ul.dropdown-menu {
+background-color:rgb(5,161, 5);
+
+}
+
+.dropdown-item:active {
+background-color: rgb(0, 239, 36);
+}
+
+.dropdown-menu > li > a:hover {
+background-color: hsl(129, 65%, 44%);
+
+
+}
+
+
+.dropdown-menu{
+border-radius: 0px;
+padding: 0px;
+margin: 0px;
+}
+
+.dropdown-item{
+padding: 10px;
+
+}
+
+.carousel-inner{
+margin: 5px;
+}
+
+
+.content{
+margin-right: 5%;
+margin-left: 5%;
+
+padding-right: 10%;
+padding-left: 10%;
+}
+
+.inner-content{
+padding: top 10px; ;
+padding-bottom:  10px; ;
+
+}
