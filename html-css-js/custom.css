@@ -65,3 +65,11 @@ color: transparent;
 span {
 display: inline-block;
 }
+
+
+
+@font-face {
+ font-family: iransens;
+src: url(/assests/Iranian\ Sans.ttf);
+}
+
