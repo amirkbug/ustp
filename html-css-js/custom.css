@@ -73,3 +73,96 @@ display: inline-block;
 src: url(/assests/Iranian\ Sans.ttf);
 }
 
+/* medias */
+
+@media only screen and (max-width:1000px){
+#navbartop{
+visibility: hidden !important;
+}
+}
+
+@media only screen and (max-width:1200px){
+#containerpxnopadding{
+padding-left: 0% !important;
+margin: 0% !important;
+
+}
+}
+    
+@media only screen and (min-width:1000px){
+#navbar2{
+visibility: hidden !important; 
+}
+}
+
+
+@media only screen and (max-width:770px){
+#parkelm{
+margin: 0% !important;
+padding: 0% !important; 
+}
+#endofsitecontainer{
+text-align: right !important;
+direction: rtl;
+width: auto;
+}
+
+#endofsitecontainerinner{
+padding: 10px !important;
+direction: ltr;
+text-align: right;
+}
+#boxesnomargin{
+width: 100% !important;
+margin-bottom: 20px;
+margin-right: 0% !important;
+}
+
+#numbersss{
+margin: 0% !important;
+padding: 0% !important; 
+}
+
+
+#numbersssfont{
+display: block !important;
+
+
+
+}
+#endingtexts{
+padding-right: 20px !important ;
+margin: 0% !important;
+padding-left: 0% !important;
+padding-top: 0% !important;
+padding-bottom: 0% !important;
+
+
+}
+
+#roydadhares{
+margin: 0% !important;
+
+
+
+}
+
+#gmailend{
+margin: 0% !important;
+
+
+
+}
+
+
+#numbersssfont2{
+font-size: 25px !important;
+
+
+}
+
+}
+
+
+
+    
